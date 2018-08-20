@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d70e6308-e506-4a2d-be6b-143ffe4bcfec" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/SpringCloudClass1/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloudClass1/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloud1/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloud1/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloud1/service-hi/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloud1/service-ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloud1/service-feign/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloud1/service-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-config/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloudConfig/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloudConfig/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloudConfig/config-client/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloudConfig/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloudSleuth/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerMiya/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloudHighEurekaServer/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerHi/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerLucy/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloudHighEurekaServer/ServiceTurbine/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>peer1</find>
+      <find>service-url</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>localhost</replace>
+      <replace>serviceUrl</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SpringCloud1/service-feign/src/main/java/com/xueqing/demo/servicefeign/HiService.java" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-feign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-ribbon/src/main/java/com/xueqing/demo/serviceribbon/HiController.java" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-ribbon/src/main/java/com/xueqing/demo/serviceribbon/HiService.java" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-hi/src/main/java/com/xueqing/demo/servicehi/ServiceHiApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-ribbon/src/main/java/com/xueqing/demo/serviceribbon/ServiceRibbonApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-zuul/src/main/java/com/xueqing/demo/servicezuul/ServiceZuulApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-zuul/src/main/java/com/xueqing/demo/servicezuul/MyFilter.java" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-hi/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/SpringCloud1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/config-client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/eureka-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/eureka-server/src/main/java/com/xueqing/demo/eurekaserver/EurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/config-server/src/main/java/com/xueqing/demo/configserver/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/config-client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/config-client/src/main/java/com/xueqing/demo/configclient/ConfigClientApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/config-client/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/SpringCloudSleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/src/main/resources/application-peer1.yml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/src/main/resources/application-peer2.yml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/src/main/java/com/xueqing/demo/higheurekaserver/HighEurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerHi/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerHi/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerHi/src/main/java/com/xueqing/demo/highserverhi/HighServerHiApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerLucy/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerLucy/src/main/java/com/xueqing/demo/highserverlucy/HighServerLucyApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/ServiceTurbine/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/ServiceTurbine/src/main/java/com/xueqing/demo/serviceturbine/ServiceTurbineApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/ServiceTurbine/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerLucy/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/ServiceTurbine/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-zuul/src/main/java/com/xueqing/demo/servicezuul/MyProvinder.java" />
+        <option value="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerMiya/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerMiya/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerMiya/src/main/java/com/xueqing/demo/sleuthservermiya/RedisSessionConfig.java" />
+        <option value="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi/src/main/java/com/xueqing/demo/sleuthserverhi/RedisSessionConfig.java" />
+        <option value="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerMiya/src/main/java/com/xueqing/demo/sleuthservermiya/SleuthServerMiyaApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi/src/main/java/com/xueqing/demo/sleuthserverhi/SleuthServerHiApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-zuul/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="high-eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="high-eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringCloudLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudSleuth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudSleuth" type="462c0819:PsiDirectoryNode" />
+              <item name="SleuthServerHi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudSleuth" type="462c0819:PsiDirectoryNode" />
+              <item name="SleuthServerHi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudSleuth" type="462c0819:PsiDirectoryNode" />
+              <item name="SleuthServerHi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudSleuth" type="462c0819:PsiDirectoryNode" />
+              <item name="SleuthServerHi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="SpringCloudLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-zuul:2.0.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="SpringCloudLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-zuul:2.0.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-zuul-2.0.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-zuul:2.0.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-zuul-2.0.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-zuul:2.0.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-zuul-2.0.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="filters" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xueqing.demo.sleuthserverhi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\intelworkspace\demo\SpringCloudLearn\SpringCloudHighEurekaServer\HighServerLucy\src\main\resources" />
+      <recent name="D:\workspace\intelworkspace\demo\SpringCloudLearn\SpringCloudHighEurekaServer\HighEurekaServer\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SleuthServerMiyaApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="config-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.configclient.ConfigClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.configserver.ConfigServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.eurekaserver.EurekaServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="HighEurekaServerPeer1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="HighEurekaServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.higheurekaserver.HighEurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="peer1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="HighEurekaServerPeer2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="HighEurekaServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.higheurekaserver.HighEurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="peer2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="HighEurekaServerPeer3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="HighEurekaServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.higheurekaserver.HighEurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="peer3" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="HighServerHiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="HighServerHi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.highserverhi.HighServerHiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="HighServerLucyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="HighServerLucy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.highserverlucy.HighServerLucyApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="ServiceFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.servicefeign.ServiceFeignApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="ServiceHiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="service-hi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.servicehi.ServiceHiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="ServiceRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.serviceribbon.ServiceRibbonApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="ServiceTurbineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ServiceTurbine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.serviceturbine.ServiceTurbineApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="ServiceZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.servicezuul.ServiceZuulApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SleuthServerHiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SleuthServerHi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.sleuthserverhi.SleuthServerHiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SleuthServerMiyaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SleuthServerMiya" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xueqing.demo.sleuthservermiya.SleuthServerMiyaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.HighEurekaServerPeer1" />
+      <item itemvalue="Spring Boot.HighEurekaServerPeer2" />
+      <item itemvalue="Spring Boot.HighEurekaServerPeer3" />
+      <item itemvalue="Spring Boot.HighServerHiApplication" />
+      <item itemvalue="Spring Boot.HighServerLucyApplication" />
+      <item itemvalue="Spring Boot.ServiceTurbineApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.ConfigClientApplication" />
+      <item itemvalue="Spring Boot.SleuthServerHiApplication" />
+      <item itemvalue="Spring Boot.SleuthServerMiyaApplication" />
+      <item itemvalue="Spring Boot.ServiceZuulApplication" />
+      <item itemvalue="Spring Boot.ServiceHiApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.ServiceRibbonApplication" />
+      <item itemvalue="Spring Boot.ServiceFeignApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\imooc\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d70e6308-e506-4a2d-be6b-143ffe4bcfec" name="Default" comment="" />
+      <created>1534404518842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534404518842</updated>
+      <workItem from="1534404520315" duration="363000" />
+      <workItem from="1534404898477" duration="16679000" />
+      <workItem from="1534425720534" duration="512000" />
+      <workItem from="1534468446755" duration="7101000" />
+      <workItem from="1534567455676" duration="13048000" />
+      <workItem from="1534731821526" duration="8888000" />
+      <workItem from="1534756099906" duration="1367000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47958000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010661" side_tool="true" weight="0.4" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" sideWeight="0.5010661" side_tool="true" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="7" weight="0.32972974" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5009009" side_tool="true" weight="0.25266525" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32972974" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Problems" order="8" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990991" visible="true" weight="0.26012793" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/src/main/resources/application-peer2.yml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE.jar!/org/springframework/boot/context/ContextIdApplicationContextInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudConfig/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.7.RELEASE/spring-aop-5.0.7.RELEASE.jar!/org/springframework/aop/target/SimpleBeanTargetSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.0.0.RELEASE/spring-cloud-netflix-eureka-server-2.0.0.RELEASE.jar!/org/springframework/cloud/netflix/eureka/server/EnableEurekaServer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.0.RELEASE/spring-cloud-netflix-eureka-client-2.0.0.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EnableEurekaClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/src/main/java/com/xueqing/demo/higheurekaserver/HighEurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-hi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-hi/src/main/java/com/xueqing/demo/servicehi/ServiceHiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-ribbon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerHi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="50" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerLucy/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerLucy/src/main/java/com/xueqing/demo/highserverlucy/HighServerLucyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/ServiceTurbine/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/ServiceTurbine/src/main/java/com/xueqing/demo/serviceturbine/ServiceTurbineApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerLucy/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerLucy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-ribbon/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-ribbon/src/main/java/com/xueqing/demo/serviceribbon/ServiceRibbonApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-feign/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-feign/src/main/java/com/xueqing/demo/servicefeign/ServiceFeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-feign/src/main/java/com/xueqing/demo/servicefeign/HiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-feign/src/main/java/com/xueqing/demo/servicefeign/HiServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-feign/src/main/java/com/xueqing/demo/servicefeign/HiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerHi/src/main/java/com/xueqing/demo/highserverhi/HighServerHiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerHi/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/ServiceTurbine/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-zuul/src/main/java/com/xueqing/demo/servicezuul/ZuulFallbackProvinder.java" />
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-zuul/src/main/java/com/xueqing/demo/servicezuul/MyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/2.0.0.RELEASE/spring-cloud-netflix-core-2.0.0.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="114" column="49" selection-start-line="114" selection-start-column="49" selection-end-line="114" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="50" column="20" lean-forward="true" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-zuul/src/main/java/com/xueqing/demo/servicezuul/MyProvinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="25" column="13" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-zuul/src/main/java/com/xueqing/demo/servicezuul/ServiceZuulApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" lean-forward="true" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudSleuth/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudSleuth/SleuthServerMiya/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudSleuth/SleuthServerMiya/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudSleuth/SleuthServerMiya/src/main/java/com/xueqing/demo/sleuthservermiya/RedisSessionConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#RedisSessionConfig#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.0.RELEASE/spring-cloud-netflix-zuul-2.0.0.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/ZuulProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2266">
+          <caret line="138" column="16" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi/src/main/java/com/xueqing/demo/sleuthserverhi/RedisSessionConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi/src/main/java/com/xueqing/demo/sleuthserverhi/SleuthServerHiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="40" column="43" selection-end-line="58" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudSleuth/SleuthServerMiya/src/main/java/com/xueqing/demo/sleuthservermiya/SleuthServerMiyaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="24" column="85" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud1/service-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.14619882" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.14619882" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

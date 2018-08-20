@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/SpringCloud1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud1/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud1/service-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud1/service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud1/service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud1/service-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudConfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudConfig/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudConfig/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudHighEurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerHi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerLucy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/ServiceTurbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudSleuth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudSleuth/SleuthServerMiya" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

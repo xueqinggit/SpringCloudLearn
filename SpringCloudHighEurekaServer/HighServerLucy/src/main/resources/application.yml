@@ -1,0 +1,18 @@
+server:
+  port: 8765
+spring:
+  application:
+    name: high-server-lucy
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://peer1:8761/eureka/
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+      cors:
+        allowed-origins: "*"
+        allowed-methods: "*"
+

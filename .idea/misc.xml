@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringCloud1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloud1/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudSleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerMiya/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerHi/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerLucy/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudHighEurekaServer/ServiceTurbine/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

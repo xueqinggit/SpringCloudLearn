@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="eureka-server" />
+        <module name="HighEurekaServer" />
+        <module name="HighServerHi" />
+        <module name="HighServerLucy" />
+        <module name="service-feign" />
+        <module name="service-hi" />
+        <module name="service-ribbon" />
+        <module name="service-zuul" />
+        <module name="ServiceTurbine" />
+        <module name="SleuthServerHi" />
+        <module name="SleuthServerMiya" />
+        <module name="spring-cloud-config" />
+        <module name="SpringCloudSleuth" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="HighEurekaServer" target="1.8" />
+      <module name="HighServerHi" target="1.8" />
+      <module name="HighServerLucy" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+      <module name="ServiceTurbine" target="1.8" />
+      <module name="SleuthServerHi" target="1.8" />
+      <module name="SleuthServerMiya" target="1.8" />
+      <module name="spring-cloud-config" target="1.8" />
+      <module name="SpringCloud1" target="1.8" />
+      <module name="SpringCloudClass1" target="1.5" />
+      <module name="SpringCloudConfig" target="1.8" />
+      <module name="SpringCloudHighEurekaServer" target="1.8" />
+      <module name="SpringCloudSleuth" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

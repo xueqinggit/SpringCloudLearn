@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/HighEurekaServer.iml" filepath="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighEurekaServer/HighEurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerHi/HighServerHi.iml" filepath="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerHi/HighServerHi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerLucy/HighServerLucy.iml" filepath="$PROJECT_DIR$/SpringCloudHighEurekaServer/HighServerLucy/HighServerLucy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/ServiceTurbine/ServiceTurbine.iml" filepath="$PROJECT_DIR$/SpringCloudHighEurekaServer/ServiceTurbine/ServiceTurbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi/SleuthServerHi.iml" filepath="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerHi/SleuthServerHi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudSleuth/SleuthServerMiya/SleuthServerMiya.iml" filepath="$PROJECT_DIR$/SpringCloudSleuth/SleuthServerMiya/SleuthServerMiya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud1/SpringCloud1.iml" filepath="$PROJECT_DIR$/SpringCloud1/SpringCloud1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudConfig/SpringCloudConfig.iml" filepath="$PROJECT_DIR$/SpringCloudConfig/SpringCloudConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudHighEurekaServer/SpringCloudHighEurekaServer.iml" filepath="$PROJECT_DIR$/SpringCloudHighEurekaServer/SpringCloudHighEurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudSleuth/SpringCloudSleuth.iml" filepath="$PROJECT_DIR$/SpringCloudSleuth/SpringCloudSleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudConfig/config-client/config-client.iml" filepath="$PROJECT_DIR$/SpringCloudConfig/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudConfig/config-server/config-server.iml" filepath="$PROJECT_DIR$/SpringCloudConfig/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud1/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/SpringCloud1/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud1/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/SpringCloud1/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud1/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/SpringCloud1/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud1/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/SpringCloud1/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud1/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/SpringCloud1/service-zuul/service-zuul.iml" />
+    </modules>
+  </component>
+</project>
