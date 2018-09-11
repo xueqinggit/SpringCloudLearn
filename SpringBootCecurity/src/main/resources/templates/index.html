@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>主页</title>
+    <link type="text/css" rel="stylesheet" href="common/layui/css/layui.css"/>
+    <link type="text/css" rel="stylesheet" href="css/index.css"/>
+</head>
+<body>欢迎您，<span id="username"></span>
+<a href="/user/logout">退出登陆</a>
+<br>
+<hr>
+<h3>您所拥有的权限为：</h3>
+<dl id="msg"></dl>
+<hr>
+<h3>验证方法权限注解：</h3>
+<a href="/user/add">验证用户新增</a><br>
+<a href="/user/del">验证用户删除</a><br>
+<a href="/user/update">验证用户修改</a><br>
+<a href="/user/list">验证用户列表</a>
+<script type="text/javascript" src="common/jquery/jquery.js"></script>
+<script type="text/javascript" src="common/layui/layui.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+
+<script>
+    $(function(){
+        getPermission();
+    })
+
+    function getPermission(){
+        $.get("/user/info",function(res){
+               $("#username").text( res.username+"("+res.nickname+")")
+                var authorities = res.authorities;
+                for(var i=0;i<authorities.length;i++){
+                    var map = authorities[i];
+                    for(var j in map){
+                        $("#msg").append("<dd>"+map[j]+"</dd>")
+                    }
+                }
+        })
+    }
+</script>
+</body>
+</html>

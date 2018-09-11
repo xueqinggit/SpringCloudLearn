@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>登陆</title>
+    <link type="text/css" rel="stylesheet" href="common/layui/css/layui.css"/>
+    <link type="text/css" rel="stylesheet" href="css/login.css"/>
+</head>
+<body>
+<div class='loginDiv'>
+    <h1 align="center">欢迎登陆</h1>
+    <br>
+    <h4  align="center">验证码错误</h4>
+    <br>
+        <form class="layui-form" action="userLogin" method="get">
+        <div class="layui-form-item">
+            <label class="layui-form-label">用户名</label>
+            <div class="layui-input-block">
+                <input type="text" name="username" required lay-verify="required" placeholder="请输入用户名"
+                       autocomplete="off" class="layui-input">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">密码</label>
+            <div class="layui-input-block">
+                <input type="text" name="password" required lay-verify="required" placeholder="请输入密码" autocomplete="off"
+                       class="layui-input">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">验证码</label>
+            <div class="layui-input-block">
+                <input type="text" name="kaptcha" required lay-verify="required" placeholder="请输入验证码" autocomplete="off"
+                       class="layui-input">
+                <br>
+                <img src="captcha.jpg" onclick="refresh(this)" >
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <div class="layui-input-block">
+                <button class="layui-btn" lay-submit lay-filter="formDemo">立即提交</button>
+                <button type="reset" class="layui-btn layui-btn-primary">重置</button>
+            </div>
+        </div>
+    </form>
+</div>
+<script>
+    function refresh(obj) {
+        obj.src = "captcha.jpg?t=" + new Date().getMilliseconds();
+    }
+
+    layui.use('form', function () {
+        var form = layui.form;
+
+        //监听提交
+        form.on('submit(formDemo)', function (data) {
+            layer.msg(JSON.stringify(data.field));
+            return false;
+        });
+    });
+
+</script>
+
+<script type="text/javascript" src="common/jquery/jquery.js"></script>
+<script type="text/javascript" src="common/layui/layui.js"></script>
+<script type="text/javascript" src="js/login.js"></script>
+</body>
+</html>

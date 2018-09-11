@@ -1,0 +1,31 @@
+.loginDiv {
+    position: absolute;
+    width: 400px;
+    left:50%;
+    transform: translateX(-50%) translateY(-50%);
+    top:50%;
+    z-index: 10;
+    background: white;
+    border-radius: 10px;
+}
+
+canvas, body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+canvas {
+    position: absolute;
+    top: 0px;
+}
+.loginDiv label {
+    color: black;
+}
+
+.layui-input, .layui-textarea{
+    width:70%!important;
+}
+h4{
+    color:red;
+}
