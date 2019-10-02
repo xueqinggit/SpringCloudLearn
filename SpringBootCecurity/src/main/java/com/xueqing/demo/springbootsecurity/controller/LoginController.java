@@ -70,7 +70,7 @@ public class LoginController {
 
     @RequestMapping("/captcha.jpg")
     @ResponseBody
-    public R applyCheckCode(HttpServletRequest request, HttpServletResponse response) throws IOException {
+    public void applyCheckCode(HttpServletRequest request, HttpServletResponse response) throws IOException {
         R r = new R();
 
         response.setHeader("Cache-Control", "no-store, no-cache");
@@ -84,6 +84,6 @@ public class LoginController {
         request.getSession().setAttribute(ConstantVal.CHECK_CODE, text);
         ServletOutputStream out = response.getOutputStream();
         ImageIO.write(image, "jpg", out);
-        return r;
+        //return r;
     }
 }
